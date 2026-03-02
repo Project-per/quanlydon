@@ -1,0 +1,25 @@
+{
+  "name": "QuanLyDon - Qu\u1ea3n l\u00fd \u0111\u01a1n h\u00e0ng",
+  "short_name": "QuanLyDon",
+  "description": "\u1ee8ng d\u1ee5ng qu\u1ea3n l\u00fd \u0111\u01a1n h\u00e0ng, thu chi, CTV v\u00e0 kh\u00e1ch h\u00e0ng",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff5f9",
+  "theme_color": "#f472b6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"]
+}
